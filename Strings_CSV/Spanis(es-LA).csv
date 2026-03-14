@@ -1,0 +1,111 @@
+Name,Value,Comment
+AboutTitle,Acerca de,About
+AddAsCollection,Añadir como colección,Add as collection
+AddAsCollectionDescription,"Crea una colección basada en esta carpeta, permitiéndote filtrar por ella en la biblioteca.","Create a collection based on this folder, allowing you to filter by it in the library."
+AddAsCollectionTitle,Añadir como colección,Add as collection
+AddBook,Añadir libro,Add book
+AddCollection,Añadir colección,Add collection
+AddFilter,Añadir filtro,Add filter
+AddFolder,Añadir carpeta,Add folder
+AddNotes,Añadir notas,Add notes
+AddToCollection,Añadir a la colección,Add to collection
+AdjustAppearance,Ajustar apariencia,Adjust appearance
+AllBooks,Todos los libros,All books
+AllCollections,Todas las colecciones,All collections
+AllFolders,Todas las carpetas,All folders
+Appearance,Apariencia,Appearance
+AppName,Aquile Reader,Aquile Reader
+AppVersion,Versión,Version
+Author,Autor,Author
+Authors,Autores,Authors
+AutoScroll,Desplazamiento automático,Auto-scroll
+BackgroundColor,Color de fondo,Background color
+BackgroundImages,Imágenes de fondo,Background images
+BookDetails,Detalles del libro,Book details
+BookInfo,Información del libro,Book info
+Bookmark,Marcador,Bookmark
+Bookmarks,Marcadores,Bookmarks
+Brightness,Brillo,Brightness
+Browse,Explorar,Browse
+Cancel,Cancelar,Cancel
+Categories,Categorías,Categories
+Chapters,Capítulos,Chapters
+CheckForUpdates,Buscar actualizaciones,Check for updates
+Clear,Limpiar,Clear
+Close,Cerrar,Close
+Collection,Colección,Collection
+Collections,Colecciones,Collections
+Color,Color,Color
+Confirm,Confirmar,Confirm
+ContinueReading,Continuar leyendo,Continue reading
+Copy,Copiar,Copy
+Custom,Personalizado,Custom
+Dark,Oscuro,Dark
+Dashboard,Panel de control,Dashboard
+DateAdded,Fecha de adición,Date added
+Delete,Eliminar,Delete
+Description,Descripción,Description
+Details,Detalles,Details
+Dictionary,Diccionario,Dictionary
+Download,Descargar,Download
+Edit,Editar,Edit
+EmptyLibrary,Tu biblioteca está vacía,Your library is empty
+Error,Error,Error
+Export,Exportar,Export
+Feedback,Comentarios,Feedback
+File,Archivo,File
+Files,Archivos,Files
+Filter,Filtrar,Filter
+Filters,Filtros,Filters
+Font,Fuente,Font
+FontSize,Tamaño de fuente,Font size
+Format,Formato,Format
+General,General,General
+Help,Ayuda,Help
+Highlight,Resaltar,Highlight
+Highlights,Resaltados,Highlights
+Home,Inicio,Home
+Import,Importar,Import
+Language,Idioma,Language
+LastRead,Última lectura,Last read
+Layout,Diseño,Layout
+Library,Biblioteca,Library
+Light,Claro,Light
+Loading,Cargando,Loading
+Margin,Margen,Margin
+Menu,Menú,Menu
+Navigation,Navegación,Navigation
+Next,Siguiente,Next
+NoResults,Sin resultados,No results
+Notes,Notas,Notes
+Open,Abrir,Open
+Options,Opciones,Options
+Page,Página,Page
+Pages,Páginas,Pages
+Path,Ruta,Path
+PrivacyPolicy,Política de privacidad,Privacy policy
+Progress,Progreso,Progress
+Properties,Propiedades,Properties
+Rating,Calificación,Rating
+Read,Leer,Read
+Recent,Reciente,Recent
+Remove,Quitar,Remove
+Rename,Renombrar,Rename
+Reset,Restablecer,Reset
+Save,Guardar,Save
+Search,Buscar,Search
+Settings,Configuración,Settings
+Share,Compartir,Share
+Size,Tamaño,Size
+SortBy,Ordenar por,Sort by
+Statistics,Estadísticas,Statistics
+Sync,Sincronizar,Sync
+Tags,Etiquetas,Tags
+Text,Texto,Text
+Theme,Tema,Theme
+Title,Título,Title
+Tools,Herramientas,Tools
+Translation,Traducción,Translation
+Update,Actualizar,Update
+View,Ver,View
+Welcome,Bienvenido,Welcome
